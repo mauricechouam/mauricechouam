@@ -1,8 +1,7 @@
 ### Hi there 👋
 
 * 🔭 I’m currently working on : 
-           - Terraform Jenkins Kubernetes Ansible
-           - Practice Python: Building Projects with Python Programming
+           - Meta Back Developer Certificate
            - Leetcode Technical Interview training 
 * 🌱 I’m currently learning : 
            - DevOps Collection Tools & Skills
